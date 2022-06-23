@@ -1,0 +1,21 @@
+ table {
+     width: 100%;
+ }
+ 
+ th {
+     background-color: #78e0e0;
+ }
+ /*
+  tr:nth-child(even) {
+      background-color: #D6EEEE;
+    }
+    faz a msm coisa do par ou impar
+  */
+ 
+ .Par {
+     background-color: #D6EEEE;
+ }
+ 
+ .Impar {
+     background-color: #f6fafa;
+ }
